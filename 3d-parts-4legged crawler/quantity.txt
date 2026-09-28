@@ -1,0 +1,8 @@
+body_d_mod.stl	1
+body_u_mod2.stl	1
+coxa_l.stl	2
+coxa_r.stl	2
+tibia_l.stl	2
+tibia_r.stl	2
+femur_1.stl	4
+s_hold.stl	8
