@@ -1,0 +1,11 @@
+==================================================
+ARDUINO NANO QUADRUPED ROBOT - PIN CONNECTION LIST
+==================================================
+
+SERVO MOTOR CONNECTIONS (Based on code configuration):
+--------------------------------------------------
+Leg 0 (Coxa, Femur, Tibia) -> (Pin D2, Pin D3, Pin D4)
+Leg 1 (Coxa, Femur, Tibia) -> (Pin D5, Pin D6, Pin D7)
+Leg 2 (Coxa, Femur, Tibia) -> (Pin D8, Pin D9, Pin D10)
+Leg 3 (Coxa, Femur, Tibia) -> (Pin D11, Pin D12, Pin D13)
+
